@@ -13,16 +13,10 @@ ook my SQL data base
 * Visual Studio Code
 * PHP
 * MySQL
-* XAMPP
+
 * Git
 
 ## Leerdoel
 
-Ik wil leren hoe ik met PHP een werkende en veilige backend kan maken.
+Ik wil leren hoe ik met data base gaan conecten.
 
-## Reflectie
-
-Ik leer steeds beter hoe PHP werkt. Door te oefenen kan ik fouten vinden en oplossen.
-
-
-IK ga het PHP leren van het youtube bros code 4 uur cursus en meerdere tiktoks met alles 
