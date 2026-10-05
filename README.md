@@ -18,5 +18,5 @@ ook my SQL data base
 
 ## Leerdoel
 
-Ik wil leren hoe ik met data base gaan conecten.
+Ik wil leren hoe ik met data base gaan conecten my website.
 
