@@ -2,7 +2,7 @@
 
 ## Wat heb ik gedaan?
 
-Ik heb geprobbed met phpMyAdmin in te logggen en MySQL start niet op.
+Ik heb geprobeerd met phpMyAdmin in te logggen en MySQL start niet op.
 
 ## Wat heb ik geleerd?
 
